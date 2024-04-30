@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hey there! I'm Neerabh
 A passionate Web Developer with a love for all things tech 🚀.
-<img align="right" alt="Coding" width="600" height="600" src="https://i.gifer.com/fetch/w300-preview/e5/e5216ff70f69bf71e1e047ac602e0162.gif">
+<img align="right" alt="Coding" width="400" height="600" src="https://i.gifer.com/fetch/w300-preview/e5/e5216ff70f69bf71e1e047ac602e0162.gif">
 
 
 ## 🌐 Socials:
