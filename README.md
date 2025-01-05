@@ -1,8 +1,6 @@
 <p align="center">
-  <span style="font-size: 2em; font-weight: bold;">
-    👋 Hey there! I'm Neerabh <br>
-    👨🏻‍💻 A passionate Web Developer and Designer with a love for all things tech 🚀.
-  </span>
+  👋 Hey there! I'm Neerabh <br>
+  👨🏻‍💻 A passionate Web Developer and Designer with a love for all things tech 🚀.
 </p>
 <br>
 
