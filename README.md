@@ -1,8 +1,7 @@
-
-👋 Hey there! I'm Neerabh  <br>
-👨🏻‍💻A passionate Web Developer and Designer with a love for all things tech 🚀.
-
-
+<div align="center" style="font-size: 2em;">
+  👋 Hey there! I'm Neerabh <br>
+  👨🏻‍💻 A passionate Web Developer and Designer with a love for all things tech 🚀.
+</div>
 
 
 <div align="center" style="font-size: 2em;">🌐 Socials</div>
