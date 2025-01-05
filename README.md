@@ -1,4 +1,4 @@
-<center style="font-size: 2em;">💫 About Me</center>
+<center style="font-size: 2em;"></center>
 👋 Hey there! I'm Neerabh <br>👨🏻‍💻A passionate Web Developer and Designer with a love for all things tech 🚀.
 
 
