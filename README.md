@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+<br>
 
 <div align="center" style="font-size: 2em;">💻 Tech Stack</div>
 <br>
