@@ -1,6 +1,6 @@
-<div align="center">
-  <h1>👋 Hey there! I'm Neerabh</h1>
-  <h2>👨🏻‍💻 A passionate Web Developer and Designer with a love for all things tech 🚀.</h2>
+<div align="center" style="font-size: 2em; font-weight: bold;">
+  👋 Hey there! I'm Neerabh <br>
+  👨🏻‍💻 A passionate Web Developer and Designer with a love for all things tech 🚀.
 </div>
 
 <br>
