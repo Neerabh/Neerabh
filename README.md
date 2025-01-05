@@ -1,5 +1,3 @@
-<div align="center" style="font-size: 2em;">💫 About Me</div>
-<br>
 
 👋 Hey there! I'm Neerabh  <br>
 👨🏻‍💻A passionate Web Developer and Designer with a love for all things tech 🚀.
@@ -10,9 +8,14 @@
 <div align="center" style="font-size: 2em;">🌐 Socials</div>
 <br>
 
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/neerabh_k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neerabh1848/) 
-
+<div align="center">
+  <a href="https://discord.gg/discordapp.com/users/neerabh_k">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://linkedin.com/in/neerabh1848/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 <div align="center" style="font-size: 2em;">💻 Tech Stack</div>
 <br>
