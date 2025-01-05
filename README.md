@@ -3,6 +3,8 @@
   👨🏻‍💻 A passionate Web Developer and Designer with a love for all things tech 🚀.
 </div>
 
+<br>
+
 
 <div align="center" style="font-size: 2em;">🌐 Socials</div>
 <br>
