@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  👨🏻‍💻 A passionate Web Developer and Designer with a love for all things tech 🚀.
+  👨🏻‍💻 A passionate <code>Web Developer</code> and <code>Designer</code> with a love for all things tech 🚀.
 </p>
 <br>
 
@@ -81,9 +81,9 @@
     </picture>
 </p>
 
-<p align="center">
+<div style="text-align: center;">
   <img src="assets/doodle.png" width="200px" height="200px">
-</p>
+</div>
 
 
 
