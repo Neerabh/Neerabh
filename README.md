@@ -87,35 +87,6 @@
 
 
 
-<!-- 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-
-- 🔭 I’m currently working on `webgis` Development.
-- 🌱 I’m currently learning `webgl` and `threejs`
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
-- 💬 Ping me about **vue**, **fullstack**, **development**, **design**
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
-</table> -->
-
-
-
-
-
-
-<!-- with hex code -->
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Neerabh.MyPortfolio&left_color=#0000ff&right_color=#00ff00) -->
-
 
 <!-- with color -->
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Neerabh.MyPortfolio&left_color=grey&right_color=brightgreen&style=flat-square)
@@ -123,8 +94,5 @@
   -->
 
 
-<!-- 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neerabh&label=Profile%20views&color=000000&style=flat" alt="Profile Views" />
-</div> -->
+
 
