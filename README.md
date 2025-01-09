@@ -81,9 +81,9 @@
     </picture>
 </p>
 
-<div style="text-align: center;">
+<p align="center">
   <img src="assets/doodle.png" width="200px" height="200px">
-</div>
+</p>
 
 
 
