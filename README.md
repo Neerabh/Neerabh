@@ -93,7 +93,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Neerabh.svg?style=social&label=Follow)](https://github.com/Neerabh?tab=followers)
   -->
 
-//snake github action
+<!--snake github action-->
 
 <!--<div align="center">
     <img src="https://github.com/Neerabh/Neerabh/blob/output/github-snake.svg" alt="snake gif">
