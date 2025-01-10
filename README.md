@@ -5,6 +5,8 @@
 </div> -->
 
 
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -50,10 +52,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,bootstrap,tailwindcss,django,flask,fastapi,react,nextjs,vite,nodejs,sqlite,mysql,mongodb,prisma,git,github,gitlab,bitbucket,docker,postgres,figma,pr,linux,apple,md,materialui,vscode,discord,=14" />
+  
   </a>
 </p>
 
 <!-- <div align="center" style="font-size: 2em;">📊 GitHub Stats</div> -->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">📊 GitHub Stats <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" height="25px"></h2></summary>
@@ -63,10 +67,18 @@
 <br>
 
 <div align="center">
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Neerabh&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
+  <img width="450" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Neerabh&count_private=true&theme=react" alt="streak stats"/>
+  <!-- <br/>
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Neerabh&hide=HTML&langs_count=8&layout=compact&theme=react&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+</div>
+
+<!-- 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neerabh&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neerabh&theme=react&hide_border=false" alt="GitHub Streak" />
-</div>
+</div> -->
 
 
 
@@ -93,11 +105,23 @@
 [![GitHub followers](https://img.shields.io/github/followers/Neerabh.svg?style=social&label=Follow)](https://github.com/Neerabh?tab=followers)
   -->
 
-<!--snake github action-->
+<!--my profile's snake github action-->
 
 <!--<div align="center">
     <img src="https://github.com/Neerabh/Neerabh/blob/output/github-snake.svg" alt="snake gif">
 </div>-->
+
+
+
+
+<!-- <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playwrite+Australia+SA&pause=1000&center=true&multiline=true&width=435&lines=Hi+%2C+I'm+Neerabh+;Web+Developer+and+Web+Designer." alt="Typing SVG">
+  </a>
+</p> -->
+
+
+
 
 
 
